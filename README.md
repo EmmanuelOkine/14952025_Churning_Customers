@@ -53,11 +53,4 @@ The project aims to address the following key aspects:
 1. **Environment Setup:** Ensure the necessary Python libraries (Keras, TensorFlow, Scikit-learn, Pandas, etc.) are installed.
 2. **Running the Notebook:** Execute the `customer_churn.ipynb` Jupyter Notebook to preprocess data, train the model, and save models.
 3. **Exploring Results:** Analyze model metrics (accuracy, AUC, etc.) and use saved models to predict customer churn on new data.
-
-## Acknowledgments
-
-The project uses a synthetic dataset for educational purposes sourced from [source of dataset]. The dataset contains fictitious customer information and does not represent real-world individuals.
-
----
-
-Feel free to modify this README file according to your project specifics, adding more details, images, or any necessary instructions for users or contributors.
+4. Deployment Setup using Streamlit to deploy a web based applicationm for use .
