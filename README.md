@@ -54,3 +54,6 @@ The project aims to address the following key aspects:
 2. **Running the Notebook:** Execute the `customer_churn.ipynb` Jupyter Notebook to preprocess data, train the model, and save models.
 3. **Exploring Results:** Analyze model metrics (accuracy, AUC, etc.) and use saved models to predict customer churn on new data.
 4. Deployment Setup using Streamlit to deploy a web based applicationm for use .
+
+5. The link to the deployment video  here;  https://www.youtube.com/watch?v=1Hbuc9oO-7E
+   Thank you.. 
